@@ -2,4 +2,7 @@
 <br>
 I am Krissada Sarawit. I currently studying in Computer Engineering at King Mongkut's Institute of Technology Ladkrabang. I interest in software development, data analysis, machine learning and AI.
 <br><br>
-![resume](https://raw.githubusercontent.com/tsphere101/tsphere101/main/resume.png "resume")
+My resume -> https://raw.githubusercontent.com/tsphere101/tsphere101/main/resume.png
+
+
+![](https://github.com/tsphere101/tsphere101/blob/main/resume.png?raw=true)
