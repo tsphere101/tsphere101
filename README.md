@@ -5,4 +5,3 @@ I am Krissada Sarawit. I currently studying in Computer Engineering at King Mong
 My resume -> https://raw.githubusercontent.com/tsphere101/tsphere101/main/resume.png
 
 
-![](https://github.com/tsphere101/tsphere101/blob/main/resume.png?raw=true)
