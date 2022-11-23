@@ -4,4 +4,4 @@ I am Krissada Sarawit. I currently studying in Computer Engineering at King Mong
 <br><br>
 My resume -> https://raw.githubusercontent.com/tsphere101/tsphere101/main/resume.png
 
-
+![](https://komarev.com/ghpvc/?username=tsphere101&style=flat-square)
