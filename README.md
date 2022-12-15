@@ -8,5 +8,5 @@ My resume
 ![](https://komarev.com/ghpvc/?username=tsphere101&style=flat-square)
 
 
-![](https://raw.githubusercontent.com/tsphere101/tsphere101/main/resume_krissada.png)
+![](https://raw.githubusercontent.com/tsphere101/tsphere101/main/resume-krissada.jpg)
 
